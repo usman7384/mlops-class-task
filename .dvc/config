@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://microsh/https://microsh.nyc3.digitaloceanspaces.com
+    url = gdrive://1SR95ZLyrU-mc5FApBSNjcNTpexTFDAkz
